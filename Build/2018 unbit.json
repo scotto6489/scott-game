@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "2018 unbit.data.unityweb",
+"asmCodeUrl": "2018 unbit.asm.code.unityweb",
+"asmMemoryUrl": "2018 unbit.asm.memory.unityweb",
+"asmFrameworkUrl": "2018 unbit.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
